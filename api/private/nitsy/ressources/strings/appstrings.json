@@ -1,7 +1,3 @@
-<html>
-<body>
-<pre>
-<code>
 {
   "french": {
     "set_email_bot": "EpicGames email du bot",
@@ -44,7 +40,3 @@
     "modify_success": "The config file was successfuly modified"
   }
 }
-</code>
-</pre>
-</body>
-</html>
