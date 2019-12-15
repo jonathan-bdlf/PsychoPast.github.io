@@ -6,8 +6,8 @@
     "fortnite_build_version": "++Fortnite+Release-11.30-CL-10639804"
   },
   "launcher": {
-    "launcher_net_cl": "10599720",
-    "launcher_compatible_engine_version": "4.21.0-10599720+++Portal+Release-Live",
-    "launcher_build_version": "10.10.5-10599720+++Portal+Release-Live"
+    "launcher_net_cl": "10681928",
+    "launcher_compatible_engine_version": "4.21.0-10681928+++Portal+Release-Live",
+    "launcher_build_version": "10.10.6-10681928+++Portal+Release-Live"
   }
 }
