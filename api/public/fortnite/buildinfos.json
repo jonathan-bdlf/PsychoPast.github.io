@@ -1,13 +1,13 @@
 {
   "fortnite": {
-    "fortnite_net_cl": "10453562",
-    "fortnite_party_id": "1.1:10453562",
-    "fortnite_compatible_engine_version": "4.24.0-10708866+++Fortnite+Release-11.30",
-    "fortnite_build_version": "++Fortnite+Release-11.30-CL-10708866"
+    "fortnite_net_cl": "10516707",
+    "fortnite_party_id": "1.1:10516707",
+    "fortnite_compatible_engine_version": "4.24.0-10800459+++Fortnite+Release-11.31",
+    "fortnite_build_version": "++Fortnite+Release-11.31-CL-10800459"
   },
   "launcher": {
-    "launcher_net_cl": "10681928",
-    "launcher_compatible_engine_version": "4.21.0-10681928+++Portal+Release-Live",
-    "launcher_build_version": "10.10.6-10681928+++Portal+Release-Live"
+    "launcher_net_cl": "10732818",
+    "launcher_compatible_engine_version": "4.21.0-10732818+++Portal+Release-Live",
+    "launcher_build_version": "10.10.7-10732818+++Portal+Release-Live"
   }
 }
